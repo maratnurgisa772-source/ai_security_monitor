@@ -1,0 +1,8 @@
+raw/
+data/*.csv
+!data/fp_benign_requests.csv
+models/
+outputs/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
